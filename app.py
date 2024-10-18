@@ -27,10 +27,8 @@ if calculate_button:
 
     prediction = model.predict(X_array)
 
-    st.subheader(f"The estimated price is ${prediction[0]:.2f}")
+    st.subheader(f"The estimated price is ${round(float(prediction[0]), 2)}")
     st.write("Advice cars in the price range given can be advised to the customer")
 
 else:
     st.write("Please click on the button to predict the price")
-
-
