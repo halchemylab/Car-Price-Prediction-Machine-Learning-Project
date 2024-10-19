@@ -50,6 +50,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or issues, please contact the project maintainer at hyp243@nyu.edu (mailto:hyp243@nyu.edu).
+If you have any questions or issues, please contact the project maintainer at hyp243@nyu.edu.
 
 I hope this helps! Let me know if you have any other questions.
